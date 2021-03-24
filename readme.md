@@ -3,6 +3,9 @@
 <a href="https://codesandbox.io/u/Barracuda1337">
   <img align="left" alt="Barracuda1337 | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/Barracuda1337/Barracuda1337/main/assets/codesandbox.svg" />
 </a>
+<a href="https://codepen.io/yunuskaratas">
+  <img align="left" alt="Barracuda1337 | Codepen" width="20px" src="https://raw.githubusercontent.com/Barracuda1337/Barracuda1337/main/assets/codepen.png" />
+</a>
 <a href="https://twitter.com/xtraquila">
   <img align="left" alt="Barracuda1337 | Twitter" width="21px" src="https://raw.githubusercontent.com/Barracuda1337/Barracuda1337/main/assets/twitter.svg" />
 </a>

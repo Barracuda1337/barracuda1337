@@ -36,5 +36,5 @@ Hi, I'm Barracuda1337, a passionate self-taught frontEnd web developer from Turk
 
 **GitHub Stats:**  
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barracuda1337&theme=dark&count_private=true&show_icons=true&hide_border=true" alt="Barracuda1337's github stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=barracuda1337&count_private=true&show_icons=true&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barracuda1337&theme=dark&count_private=true&show_icons=true&hide_border=true" alt="Barracuda1337's github stats" style="max-width:100%;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=barracuda1337&count_private=true&show_icons=true&theme=dark&hide_border=true" style="max-width:100%;"/>

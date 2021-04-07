@@ -37,6 +37,6 @@ Hi, I'm Barracuda1337, a passionate self-taught frontEnd web developer from Turk
 **GitHub Stats:**  
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/username=barracuda&amp;theme=dark&amp;count_private=true&amp;show_icons=true&amp;hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/username=barracuda&amp;theme=dark&amp;count_private=true&amp;show_icons=true&amp;hide_border=true" style="max-width:100%;">
-<img src="https://github-readme-stats.vercel.app/api?username=barracuda1337&amp;count_private=true&amp;show_icons=true&amp;theme=dark&amp;hide_border=true" width="%100" height="150px" alt="stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=barracuda1337&amp;count_private=true&amp;show_icons=true&amp;theme=dark&amp;hide_border=true" style="max-width:100%;"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barracuda1337&theme=dark&count_private=true&show_icons=true&hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=barracuda1337&theme=dark&count_private=true&show_icons=true&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=barracuda1337&amp;count_private=true&amp;show_icons=true&amp;theme=dark&amp;hide_border=true" width="%100" height="150px" alt="stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=barracuda1337&theme=dark&count_private=true&show_icons=true&hide_border=true" style="max-width:100%;"></a>
 </p>

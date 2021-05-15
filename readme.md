@@ -9,7 +9,7 @@
 <a href="https://twitter.com/xtraquila">
   <img align="left" alt="Barracuda1337 | Twitter" width="21px" src="https://raw.githubusercontent.com/Barracuda1337/Barracuda1337/main/assets/twitter.svg" />
 </a>
-<a href="https://discord.gg/rjenWdFDrA">
+<a href="https://discord.gg/mnnpPWNw4J">
   <img align="left" alt="Barracuda1337's Discord" width="21px" src="https://raw.githubusercontent.com/Barracuda1337/barracuda1337/main/assets/discord-round.svg" />
 </a>
 
@@ -20,7 +20,7 @@ Hi, I'm Barracuda1337, a passionate self-taught frontEnd web developer from Turk
 
 - 🔭 I’m currently working on [Php + PDO Admin Dashboard](https://github.com)
 - 🌱 I’m currently learning Javascript
-- 💬 Ask me about anything [here](https://mail:iletisim@yunuskaratas.com.tr)
+- 💬 Ask me about anything [here](https://discord.gg/mnnpPWNw4J)
 
 **Languages and Tools:**  
 
